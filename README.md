@@ -1,3 +1,5 @@
+[![Coverage Status](https://coveralls.io/repos/github/ClementSoulier/tv-dashboard/badge.svg?branch=master)](https://coveralls.io/github/ClementSoulier/tv-dashboard?branch=master)
+[![Build Status](https://travis-ci.org/ClementSoulier/tv-dashboard.svg?branch=master)](https://travis-ci.org/ClementSoulier/tv-dashboard)
 # TvDashboard
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
