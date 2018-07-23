@@ -1,6 +1,7 @@
 [![Coverage Status](https://coveralls.io/repos/github/ClementSoulier/tv-dashboard/badge.svg?branch=master)](https://coveralls.io/github/ClementSoulier/tv-dashboard?branch=master)
 [![Build Status](https://travis-ci.org/ClementSoulier/tv-dashboard.svg?branch=master)](https://travis-ci.org/ClementSoulier/tv-dashboard)
 [![Known Vulnerabilities](https://snyk.io/test/github/ClementSoulier/tv-dashboard/badge.svg?targetFile=package.json)](https://snyk.io/test/github/ClementSoulier/tv-dashboard?targetFile=package.json)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d15eb7a1baed444f82d0d65025966798)](https://www.codacy.com/app/ClementSoulier/tv-dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ClementSoulier/tv-dashboard&amp;utm_campaign=Badge_Grade)
 # TvDashboard
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
